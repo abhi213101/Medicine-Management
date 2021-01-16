@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.inputText1 {
+    width: 250px;
+    border-radius: 5px;
+    height: 40px;
+    border: 1px solid white;
+    color: white;
+}
+
+.miniContainer {
+    margin: 10px;
+}
+
+.BUTTON {
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    text-align: center;
+    margin: 40px;
+}

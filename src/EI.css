@@ -1,0 +1,40 @@
+
+
+.IndentEntry1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.name1 {
+    text-align: center;
+    width: 220px;
+    height: fit-content;
+    display: inline-block;
+    border-radius: 5px;
+    min-height: 30px;
+    padding: 10px 10px;
+    color: white;
+}
+
+.buffer1 {
+    text-align: center;
+    width: 140px;
+    display: inline-block;
+    height: fit-content;;
+    border-radius: 5px;
+    min-height: 30px;
+    padding: 10px 10px;
+    color: white;
+}
+
+
+.current1 {
+    text-align: center;
+    width: 160px;
+    display: inline-block;
+    height: fit-content;;
+    border-radius: 5px;
+    min-height: 30px;
+    padding: 10px 10px;
+    color: white;
+}

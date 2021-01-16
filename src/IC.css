@@ -1,0 +1,92 @@
+.IndentEntry {
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}
+
+.name {
+    text-align: center;
+    width: 220px;
+    height: fit-content;
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 5px;
+    min-height: 30px;
+    padding: 10px 10px;
+    color: white;
+}
+
+.buffer {
+    text-align: center;
+    width: 140px;
+    display: inline-block;
+    height: fit-content;
+    border: 1px solid black;
+    border-radius: 5px;
+    min-height: 30px;
+    padding: 10px 10px;
+    color: white;
+    background-color: black;
+}
+
+
+.current {
+    text-align: center;
+    width: 160px;
+    display: inline-block;
+    height: fit-content;
+    border: 1px solid black;
+    border-radius: 5px;
+    min-height: 30px;
+    padding: 10px 10px;
+    color: white;
+}
+
+.expDate {
+    text-align: center;
+    width: 160px;
+    display: inline-block;
+    height: fit-content;
+    border: 1px solid rgb(231, 198, 12);
+    border-radius: 5px;
+    min-height: 30px;
+    padding: 10px 10px;
+    color: rgb(231, 198, 12);
+}
+
+.expDate:hover {
+    color: white;
+    background-color: rgb(231, 198, 12);
+    cursor: pointer;
+}
+
+
+.submit {
+    text-align: center;
+    width: 140px;
+    display: inline-block;
+    height: fit-content;
+    border: 1px solid rgb(12, 125, 231);
+    border-radius: 5px;
+    min-height: 30px;
+    padding: 10px 10px;
+    color: rgb(12, 125, 231);
+}
+
+.submit:hover {
+    color: white;
+    background-color: rgb(12, 125, 231);
+    cursor: pointer;
+}
+
+.text {
+    width: 140px;
+    display: inline-block;
+    height: fit-content;
+    border: 1px solid white;
+    border-radius: 5px;
+    min-height: 30px;
+    padding: 10px 10px;
+    color: white;
+    background-color: black;
+}

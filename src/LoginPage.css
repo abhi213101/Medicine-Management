@@ -1,0 +1,61 @@
+.PrimaryButton {
+    color: rgb(12, 125, 231);
+    background-color: white;
+    width: 200px;
+    border: 1px solid rgb(12, 125, 231);
+    border-radius: 5px;
+    height: 40px;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+    background-color: black;
+}
+
+.PrimaryButton:hover {
+    color: white;
+    background-color:  rgb(12, 125, 231) ;
+    cursor: pointer !important;
+}
+
+.SignUpDiv {
+    margin-top: 30px;
+}
+
+.SecondaryButton {
+    color: rgb(231, 198, 12);
+    background-color: white;
+    width: 200px;
+    border: 1px solid rgb(231, 198, 12);
+    border-radius: 5px;
+    height: 40px;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+    background-color: black;
+}
+
+.SecondaryButton:hover {
+    color: white;
+    background-color:  rgb(231, 198, 12) ;
+    cursor: pointer !important;
+}
+
+
+.DangerButton {
+    color:  rgb(221, 83, 83);
+    background-color: white;
+    width: 200px;
+    border: 1px solid  rgb(221, 83, 83);
+    border-radius: 5px;
+    height: 40px;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+    background-color: black;
+}
+
+.DangerButton:hover {
+    color: white;
+    background-color:  rgb(221, 83, 83) ;
+    cursor: pointer !important;
+}

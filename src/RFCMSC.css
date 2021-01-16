@@ -1,0 +1,85 @@
+.IndentEntry2 {
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}
+
+.name2 {
+    text-align: center;
+    width: 220px;
+    height: fit-content;
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 5px;
+    min-height: 30px;
+    padding: 10px 10px;
+    color: white;
+}
+
+.buffer2 {
+    width: 140px;
+    display: inline-block;
+    height: fit-content;
+    border: 1px solid white;
+    border-radius: 5px;
+    min-height: 30px;
+    padding: 10px 10px;
+    color: white;
+    background-color: black;
+}
+
+
+.current2 {
+    text-align: center;
+    width: 160px;
+    display: inline-block;
+    height: fit-content;
+    border: 1px solid black;
+    border-radius: 5px;
+    min-height: 30px;
+    padding: 10px 10px;
+    color: white;
+}
+
+.expDate2 {
+    text-align: center;
+    width: 160px;
+    display: inline-block;
+    height: fit-content;
+    border: 1px solid white;
+    border-radius: 5px;
+    min-height: 30px;
+    padding: 10px 10px;
+    color: white;
+}
+
+
+.submit2 {
+    text-align: center;
+    width: 140px;
+    display: inline-block;
+    height: fit-content;
+    border: 1px solid rgb(12, 125, 231);
+    border-radius: 5px;
+    min-height: 30px;
+    padding: 10px 10px;
+    color: rgb(12, 125, 231);
+}
+
+.submit2:hover {
+    color: white;
+    background-color: rgb(12, 125, 231);
+    cursor: pointer;
+}
+
+.text2 {
+    width: 140px;
+    display: inline-block;
+    height: fit-content;
+    border: 1px solid white;
+    border-radius: 5px;
+    min-height: 30px;
+    padding: 10px 10px;
+    color: white;
+    background-color: black;
+}

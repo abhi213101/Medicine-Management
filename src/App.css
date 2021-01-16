@@ -1,0 +1,23 @@
+.App {
+  padding: 30px;
+}
+
+.inputText {
+  width: 400px;
+  height: 40px;
+  border-radius: 5px;
+  border: 1px solid white;
+  padding: 3px;
+  margin-bottom: 13px;
+  background-color: black;
+  color: white
+}
+
+.labelClass {
+  color: white;
+}
+
+
+.black {
+  background-color: black !important;
+}
